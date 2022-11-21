@@ -20,7 +20,7 @@ Al mismo tiempo nos ofrece una _Hoja de datos_, dónde podremos ver los datos qu
 
 Y también cuenta con un apartado para _Ejecutar SQL_.
 
-![Ejecutar SQL](./ImagesReadme/ejecutar_sql.png).
+![Ejecutar SQL](./ImagesReadme/ejecutar_sql.png)
 
 ## Importante
 
