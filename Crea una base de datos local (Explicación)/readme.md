@@ -6,7 +6,7 @@ Si quieres trabajar offline con la base de datos, sigue los pasos que te pongo a
 
 2. Instala [DB Browser for SQLite](https://sqlitebrowser.org/dl/)
 
-3. Una vez tengas todo instalado, descarga el fichero <a href="" download>data.db</a> y abre la base de datos desde [DB Browser for SQLite](https://sqlitebrowser.org/dl/) o copia el código DBParaSQLite.sql y pégalo en el apartado _'Ejecutar SQL'_ de [DB Browser for SQLite](https://sqlitebrowser.org/dl/)
+3. Una vez tengas todo instalado, descarga el fichero <a href="https://github.com/Andresblz/DBDD-USAL/blob/main/Crea%20una%20base%20de%20datos%20local%20(Explicacio%CC%81n)/data.db" download>data.db</a> y abre la base de datos desde [DB Browser for SQLite](https://sqlitebrowser.org/dl/) o copia el código DBParaSQLite.sql y pégalo en el apartado _'Ejecutar SQL'_ de [DB Browser for SQLite](https://sqlitebrowser.org/dl/)
 
 
 ## ¿Qué ofrece DB Browser for SQLite?
